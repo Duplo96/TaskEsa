@@ -1,0 +1,6 @@
+@Task_Esa_HostAddress = http://localhost:5158
+
+GET {{Task_Esa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
